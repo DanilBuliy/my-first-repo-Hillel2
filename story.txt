@@ -1,2 +1,2 @@
-Sentence1
-added1
+Sentence1 in feature1
+Added in feature1
